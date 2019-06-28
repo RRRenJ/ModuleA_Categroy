@@ -1,0 +1,1 @@
+pod "ModuleA_Categroy"
